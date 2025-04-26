@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sebastian, an <a href="www.linkedin.com/in/sebastiandguzman/">IT Professional</a></h1>
+<h1>Hi, I'm Sebastian, an <a href="www.linkedin.com/in/sebastiandguzman/">IT Professional</a>:fire:</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
