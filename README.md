@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sebastian!, an <a href="(https://www.linkedin.com/in/sebastian-de-guzman-276502206/)">IT Professional</a>☺</h1>
+<h1>Hi, I'm Sebastian, an <a href="www.linkedin.com/in/sebastiandguzman">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -10,4 +10,6 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/sebastian-deguzman/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/sebastian-deguzman/azure-network-protocols)
 
+<h2>🤳Connect with me:</h2>
 
+[linkedin]: www.linkedin.com/in/sebastiandguzman
